@@ -1,0 +1,7 @@
+D:\工作区\源代码\WFAttendListener\WFAttendListene\WFAttendListene\bin\Debug\WFAttendListene.exe.config
+D:\工作区\源代码\WFAttendListener\WFAttendListene\WFAttendListene\bin\Debug\WFAttendListene.exe
+D:\工作区\源代码\WFAttendListener\WFAttendListene\WFAttendListene\bin\Debug\WFAttendListene.pdb
+D:\工作区\源代码\WFAttendListener\WFAttendListene\WFAttendListene\obj\Debug\WFAttendListene.csprojAssemblyReference.cache
+D:\工作区\源代码\WFAttendListener\WFAttendListene\WFAttendListene\obj\Debug\WFAttendListene.csproj.CoreCompileInputs.cache
+D:\工作区\源代码\WFAttendListener\WFAttendListene\WFAttendListene\obj\Debug\WFAttendListene.exe
+D:\工作区\源代码\WFAttendListener\WFAttendListene\WFAttendListene\obj\Debug\WFAttendListene.pdb
